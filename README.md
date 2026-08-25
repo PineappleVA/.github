@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://sites.google.com/view/pacorp/inicio">
-    <img src="./assets/pineapple.svg" alt="Logo de Pineapple" width="140" />
+    <img src="./assets/pineapple.png" alt="Logo de Pineapple" width="140" />
   </a>
 
   <h1>Pineapple</h1>
@@ -38,7 +38,7 @@ Nuestro trabajo está pensado especialmente para **alumnos, profesores y colegio
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/school-utilities.svg" alt="Logo de School Utilities" width="72" />
+      <img src="./assets/school-utilities.png" alt="Logo de School Utilities" width="72" />
       <h3>School Utilities</h3>
       <p>Una web creada para nuestros alumnos y utilizada en varios colegios de Valladolid. Centraliza utilidades para el día a día escolar en una experiencia sencilla y accesible.</p>
       <a href="https://sites.google.com/safa-grial.es/school-utilities/inicio"><strong>Visitar School Utilities →</strong></a>
@@ -50,7 +50,7 @@ Nuestro trabajo está pensado especialmente para **alumnos, profesores y colegio
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <img src="./assets/y.svg" alt="Logo de 𝕐" width="72" />
+      <img src="./assets/y.png" alt="Logo de 𝕐" width="72" />
       <h3>𝕐 · Una red social alternativa</h3>
       <p>Un espacio diferente para compartir y conectar, pensado como alternativa a <strong>𝕏</strong>.</p>
       <a href="https://complain.base44.app"><strong>Conocer 𝕐 →</strong></a>
