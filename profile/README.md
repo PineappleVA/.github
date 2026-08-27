@@ -108,26 +108,9 @@ Aquí no solo creamos: <strong>también jugamos</strong>. Experimentamos con ide
 
 ---
 
-## 📸 Un vistazo a nuestros proyectos
-
-<div align="center">
-  <a href="https://sites.google.com/safa-grial.es/school-utilities/inicio">
-    <img src="https://lh3.googleusercontent.com/sitesv/AG8ngQVOxBIuaJwIo-kXHAPEq7w2O2tVSQSkI2GmRotr28lHegpZOC0t1VVaX7rklVDZhsQY9D9wPKFTLdye-lvDEhmpznEk8K1vB--Xa0JpIfUsETQXWewZv-gACkhXietjVt5ZAI7CrTAxojaAN_fZyLlApwf8tCvuX5FPjBZhNbnGCFKB8p08MXbNdaM-HjevSOVn6YHL1giKnMa8OHLU6fDTJkIuYiD_KEYA5rlf=w1280" alt="Productos de Pineapple" width="45%" />
-  </a>
-  <a href="https://complain.base44.app">
-    <img src="https://lh3.googleusercontent.com/sitesv/AG8ngQUSfxg2L0MHM4pXNXPOQ9OKI4UGkcdU2e-HgJjyybipCZXHr8N2xmkfERfX5uI9bRp4W01-68QIbV13NwmpFX1A5G8DrfpVkfgdZe6nVlHdubhadrUWB31yJK9YCtvDuUHBeVycfYkGTsmPNmYvOOpKysYns7Sc3uf0-jFMQPnvljw8xjFef5izNsGiyk7ELBY1aZFytLCl-40I2dTNTFXbOZcyt-3b8LMWrA1EMH8=w1280" alt="Y, la red social alternativa" width="45%" />
-  </a>
-</div>
-
----
-
 ## 🏫 Hecho para nuestra comunidad
 
 Nuestros productos se utilizan en distintos colegios de Valladolid. Escuchamos las necesidades reales de alumnos y centros para crear herramientas claras, útiles y fáciles de usar.
-
-<div align="center">
-  <img src="https://lh3.googleusercontent.com/sitesv/AG8ngQU8IjXq9f0eQ-T77Ig_FdsvagWErrzsDGpXApzxNeO1U1EY66aNE-OuLqHzZgzB-RrhORwiM09_Pf2GgiqYyk9mbPkx3xGU4D25RE39yJNVKRXp2D3xhgdXb5VOjnPycYvuCmR84lcM5X6SumwhcA8fiEp6W_QPd-xoEzqboNoSIv5fUZK0lT2Qmu-M-_erSzJF49z0jBQ9D5TVWEOfoVmPa5KWCQ6nw5pDMv8T=w1280" alt="Colegios que utilizan productos de Pineapple" width="720" />
-</div>
 
 ---
 
@@ -136,7 +119,7 @@ Nuestros productos se utilizan en distintos colegios de Valladolid. Escuchamos l
 <div align="center">
   <a href="https://sites.google.com/view/pacorp/inicio"><img src="https://img.shields.io/badge/Web_oficial_de_Pineapple-F5A623?style=for-the-badge" alt="Web oficial de Pineapple" /></a>
   <br/><br/>
-  <a href="https://github.com/PineappleVA"><img src="https://img.shields.io/github/followers/PineappleVA?style=social&label=Síguenos%20en%20GitHub" alt="Seguir en GitHub" /></a>
+  <a href="https://github.com/PineappleVA"><img src="https://img.shields.io/badge/GitHub-PineappleVA-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visitar GitHub de Pineapple" /></a>
 </div>
 
 <div align="center">
